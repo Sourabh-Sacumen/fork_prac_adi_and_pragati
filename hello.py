@@ -3,7 +3,7 @@ def greet():
 
 def greet_p():
     print("Hi pragati this side")
-    
+
 # creating pattern 
 
 # taking int input from user
@@ -17,3 +17,6 @@ for row in range(num):
         else:
             print(" ",end=" ")
     print()
+
+def my_hello():
+    print("Hellooo... from my side.")
